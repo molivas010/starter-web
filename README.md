@@ -13,3 +13,7 @@ Used to test out github and features
 
 You can update and add additional information as long as give credit to original
 authors
+
+### Copyright
+
+2017 Mike Olivas
