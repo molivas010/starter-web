@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mike Olivas -- molivas@alum.mit.edu -- @olivas_mike
 
 # THANKS
 
-    <name>
+    Mike Olivas Jason
 
 # TECHNOLOGY COLOPHON
 
